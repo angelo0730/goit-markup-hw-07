@@ -397,7 +397,6 @@ background-image: url(../images/dark-bg.png), url(../images/hero-bg.jpg),
 .benefits-svg-box {
   margin-bottom: 8px;
   display: flex;
-  width: auto;
   height: 120px;
   justify-content: center;
   align-items: center;
