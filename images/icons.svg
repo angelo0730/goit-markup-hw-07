@@ -91,7 +91,7 @@
     <path d="M11.44 4.785l14.58 3.574-6.2 5.352-14.582-3.576 6.202-5.35zM11.164 3.867l-7.735 6.674 16.667 4.086 7.734-6.674-16.666-4.086zM21.034 28.2l6.795-5.865-6.796-1.667v7.533z"></path>
 </symbol>
 
-<symbol id="close" viewBox="0 0 32 32">
+<symbol id="close">
 <path d="M32 3.224l-3.224-3.224-12.776 12.776-12.776-12.776-3.224 3.224 12.776 12.776-12.776 12.776 3.224 3.224 12.776-12.776 12.776 12.776 3.224-3.224-12.776-12.776 12.776-12.776z"></path>
 </symbol>
 
@@ -115,6 +115,10 @@
             <path fill="#fff" style="fill: var(--color1); stroke: var(--color1)" stroke="#fff" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.64" d="M6.262 15.206l-0.221-0.211-0.221 0.208-3.085 2.925 0.243 0.234 11.408 10.88 0.221-0.211 24.256-23.139-0.243-0.23-3.043-2.902-0.221 0.211-20.97 19.987-8.125-7.75z"></path>
         </symbol>
 
+<!-- Hamburger Menu -->
+<symbol id="hamburger" viewBox="0 0 47 32">
+<path d="M1.34814 20.0431H30.8866M1.34814 10.7354H30.8866M1.34814 1.42773H30.8866" stroke="#2E2F42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</symbol>
 
 </defs>
 </svg>
