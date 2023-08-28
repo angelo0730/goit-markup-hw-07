@@ -1705,12 +1705,13 @@ p {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.mobile-menu .hamburger-menu-link:focus {
-  color: var(--iriscolor);
-}
-.mobile-menu-item:hover {
+.mobile-menu .hamburger-menu-link:hover,
+.hamburger-menu-link:focus {
   color: var(--oceancolor);
 }
+/* .mobile-menu-item:hover {
+  color: var(--oceancolor);
+} */
 
 .mobile-menu-item:not(:last-child) {
   margin-bottom: 40px;
