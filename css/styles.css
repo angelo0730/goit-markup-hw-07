@@ -1709,9 +1709,6 @@ p {
 .hamburger-menu-link:focus {
   color: var(--oceancolor);
 }
-/* .mobile-menu-item:hover {
-  color: var(--oceancolor);
-} */
 
 .mobile-menu-item:not(:last-child) {
   margin-bottom: 40px;
